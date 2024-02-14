@@ -10,7 +10,7 @@ This Currency Converter is a web application that allows users to convert betwee
 
 ## Demo
 
-You can see a live demo of the Currency Converter [here](#) (replace with the link to your deployed application).
+You can see a live demo of the Currency Converter https://shabnum7.github.io/Currency-Converter/.
 
 ## Screenshots
 
@@ -23,7 +23,7 @@ To use the Currency Converter, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/shabnum7/Currency-Converter.git
     ```
 
 2. Open `index.html` in your preferred web browser.
